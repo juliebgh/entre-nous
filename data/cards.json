@@ -1,0 +1,5522 @@
+[
+  {
+    "id": "decouverte-001",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Un samedi se libère au dernier moment. Qu’est-ce qui me donne le plus envie ?",
+    "choices": [
+      "Retrouver quelqu’un à l’improviste",
+      "Reprendre un projet laissé en plan",
+      "Partir sans itinéraire",
+      "Garder la journée pour moi"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "temps"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-002",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Un proche me demande mon avis sur une idée fragile. Par où est-ce que je commence ?",
+    "choices": [
+      "Ce qui me plaît vraiment",
+      "La question que je me pose",
+      "Le risque que je vois",
+      "Ce qu’il attend de mon avis"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "franchise"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-003",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Dans une ville inconnue, quel détour mérite que je rate mon bus ?",
+    "choices": [
+      "Une répétition qu’on entend depuis la rue",
+      "Un marché presque terminé",
+      "Une conversation avec un habitant",
+      "Un point de vue juste avant la pluie"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "curiosité"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-004",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Pour préparer un dîner à deux, quelle tâche est-ce que je réclame volontiers ?",
+    "choices": [
+      "Imaginer le menu",
+      "Choisir la musique et la lumière",
+      "Faire les courses au gré des envies",
+      "Accueillir l’autre avec du temps devant moi"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "organisation"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-005",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "On m’offre une heure de service à domicile. À qui est-ce que j’ouvre la porte ?",
+    "choices": [
+      "Quelqu’un qui répare enfin ce qui coince",
+      "Quelqu’un qui m’apprend un geste de cuisine",
+      "Quelqu’un qui trie les papiers avec moi",
+      "Quelqu’un qui s’occupe du ménage"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "priorités"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-006",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Face à un appareil que je découvre, que fais-je en premier ?",
+    "choices": [
+      "Je cherche un exemple concret",
+      "Je parcours la notice",
+      "Je tente un premier réglage",
+      "Je demande une démonstration"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "apprentissage"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-007",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Quelle maladresse me fait le plus facilement rire de moi ?",
+    "choices": [
+      "Défendre un souvenir complètement faux",
+      "Rater une recette pourtant simple",
+      "Chercher un objet que je tiens déjà",
+      "Répéter une expression de travers depuis des années"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "humour"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-008",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Dans un restaurant qui vient d’ouvrir, quel détail est-ce que je remarque en premier ?",
+    "choices": [
+      "La façon dont on nous accueille",
+      "L’acoustique de la salle",
+      "Les plats que les autres ont choisis",
+      "Les petits choix de décoration"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "attention"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-009",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "D’une journée magnifique, que voudrais-je garder dans une petite enveloppe ?",
+    "choices": [
+      "Un mot écrit par l’autre",
+      "Une photo prise sur le vif",
+      "Un billet froissé du trajet",
+      "La recette de ce qu’on a mangé"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "souvenirs"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-010",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Personne ne décide du film. Quel rôle est-ce que je prends ?",
+    "choices": [
+      "Je propose deux titres à départager",
+      "Je choisis un film au hasard",
+      "Je demande quelle ambiance ferait du bien",
+      "Je défends mon coup de cœur"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "initiative"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-011",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "À quoi voit-on qu’une pièce est vraiment devenue la mienne ?",
+    "choices": [
+      "Il y a un siège où je m’installe toujours",
+      "Mes objets ont tous trouvé une place",
+      "Des souvenirs s’accumulent sur les murs",
+      "On peut y accueillir quelqu’un sans prévenir"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "style"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-012",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Une petite rentrée d’argent inattendue arrive. Quel plaisir prend la tête ?",
+    "choices": [
+      "Inviter quelqu’un",
+      "M’équiper pour un loisir",
+      "Financer une petite escapade",
+      "M’offrir la tranquillité de l’épargner"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "budget"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-013",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Dans une équipe qui débute, quelle contribution me vient spontanément ?",
+    "choices": [
+      "Clarifier le but commun",
+      "Présenter les gens entre eux",
+      "Essayer une première piste",
+      "Repérer ce qui manque"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "collectif"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-014",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Quand une nouvelle m’enthousiasme, quel indice me trahit ?",
+    "choices": [
+      "Je parle plus vite",
+      "J’envoie aussitôt un message",
+      "Je me mets à faire des plans",
+      "Je souris en silence"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "expressivité"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-015",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Une longue file d’attente s’immobilise. Quelle occupation me ressemble ?",
+    "choices": [
+      "Observer les scènes autour de moi",
+      "Chercher une autre solution",
+      "Profiter de ce temps pour rêvasser",
+      "Engager la conversation"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "patience"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-016",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Si je pouvais devenir très habile en une soirée, quelle fierté choisirais-je ?",
+    "choices": [
+      "Fabriquer un objet qui dure",
+      "Improviser un morceau de musique",
+      "Raconter une histoire captivante",
+      "Réussir un plat à partager"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "ambition"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-017",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Quel cadeau révèle le mieux qu’une personne a pensé à moi ?",
+    "choices": [
+      "Quelque chose que j’avais évoqué en passant",
+      "Un moment réservé dans son agenda",
+      "Un objet fait de ses mains",
+      "Une trouvaille qu’elle seule aurait choisie"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "cadeaux"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-018",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Deux vacances me plaisent autant. Qu’est-ce qui tranche ?",
+    "choices": [
+      "La personne qui pourrait m’accompagner",
+      "La saison idéale pour le lieu",
+      "La part d’inconnu",
+      "La simplicité du trajet"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "décision"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-019",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Quelle petite tradition aimerais-je inventer à deux ?",
+    "choices": [
+      "Revisiter chaque année le même lieu",
+      "Essayer chaque mois une nouvelle table",
+      "Se raconter chaque dimanche un moment marquant",
+      "Glisser des mots dans un carnet commun"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "traditions"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-020",
+    "category": "decouverte",
+    "intensity": 1,
+    "question": "Après une semaine chargée, quelle invitation suis-je le plus susceptible d’accepter ?",
+    "choices": [
+      "Un repas tranquille chez des amis",
+      "Une marche à deux sans programme",
+      "Une soirée où je peux danser",
+      "Un café bref près de chez moi"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "énergie"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-021",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "On me confie un carnet vierge. Qu’y aurait-il probablement après un mois ?",
+    "choices": [
+      "Des listes d’idées à essayer",
+      "Des phrases entendues qui me restent",
+      "Des dessins en marge",
+      "Des souvenirs datés"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "créativité"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-022",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quel détail peut me faire changer d’avis sur un livre abandonné ?",
+    "choices": [
+      "Quelqu’un me raconte ce qu’il y a trouvé",
+      "Je tombe sur un passage qui me touche",
+      "Je traverse une période qui lui correspond",
+      "Je découvre l’histoire de son auteur"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "opinions"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-023",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "En arrivant très en avance à un rendez-vous, que fais-je du temps gagné ?",
+    "choices": [
+      "Je repère un endroit agréable pour attendre",
+      "J’en profite pour explorer le quartier",
+      "Je préviens que je suis déjà disponible",
+      "Je termine une petite chose en suspens"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "ponctualité"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-024",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quel rôle choisirais-je pour une soirée au théâtre, coulisses comprises ?",
+    "choices": [
+      "Jouer un petit rôle sur scène",
+      "Inventer le décor",
+      "Accueillir les spectateurs",
+      "Orchestrer les entrées en coulisses"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "expérience"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-025",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Pour un nouveau loisir, quelle formule me donnerait envie de persévérer ?",
+    "choices": [
+      "Un rendez-vous régulier à deux",
+      "Un défi personnel mesurable",
+      "La liberté d’y revenir selon l’envie",
+      "Un atelier avec un groupe chaleureux"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "autonomie"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-026",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Un déménagement m’oblige à alléger mes étagères. Qu’est-ce que je sauve d’abord ?",
+    "choices": [
+      "Les objets transmis",
+      "Les outils qui servent vraiment",
+      "Les œuvres qui m’inspirent",
+      "Les traces de mes propres projets"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "priorités"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-027",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "À quel message ai-je le plus envie de répondre sur-le-champ ?",
+    "choices": [
+      "« J’ai pensé à toi en voyant ça »",
+      "« J’ai une idée un peu folle »",
+      "« Tu as cinq minutes pour un avis ? »",
+      "« Je suis dans ton quartier »"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "communication"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-028",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "À table entre amis, quelle façon de partager l’addition me convient le mieux ?",
+    "choices": [
+      "Chacun règle sa consommation",
+      "On partage à parts égales si tous sont d’accord",
+      "On s’invite à tour de rôle",
+      "On décide avant de commander"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "équité"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-029",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quel défaut puis-je pardonner à un lieu qui me plaît ?",
+    "choices": [
+      "Un mobilier un peu fatigué",
+      "Une carte très courte",
+      "Un trajet peu pratique",
+      "Des horaires imprévisibles"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "goût"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-030",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Pour une balade improvisée, qu’est-ce que j’emporte presque par réflexe ?",
+    "choices": [
+      "De quoi grignoter à partager",
+      "Un appareil pour garder une trace",
+      "Une couche de plus au cas où",
+      "Le strict nécessaire pour voyager léger"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "spontanéité"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-031",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quand je découvre un jeu avec des amis, quel plaisir vient en premier ?",
+    "choices": [
+      "Comprendre l’astuce qui change tout",
+      "Faire rire autour de la table",
+      "Tenter une stratégie improbable",
+      "Voir comment chacun prend ses décisions"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "compétition"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-032",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Un artisan me laisse l’interroger pendant dix minutes. Quelle question me tente ?",
+    "choices": [
+      "Quel geste a pris le plus de temps à apprendre ?",
+      "Quelle commande vous a surpris ?",
+      "Qu’est-ce que le public remarque rarement ?",
+      "Qu’aimeriez-vous encore inventer ?"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "curiosité"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-033",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Pour retrouver le souvenir d’un voyage, quel déclencheur fonctionne le mieux sur moi ?",
+    "choices": [
+      "Une chanson du trajet",
+      "Une odeur de cuisine",
+      "Le plan de la ville",
+      "Une phrase qu’on répétait là-bas"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "mémoire"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-034",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Un projet m’occupe pendant un mois. Quand ai-je le plus d’élan ?",
+    "choices": [
+      "Au premier brouillon, quand tout est ouvert",
+      "Quand les pièces commencent à s’assembler",
+      "À l’approche de la date de livraison",
+      "Quand je peux le montrer à quelqu’un"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "rythme"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-035",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Une personne arrive seule à ma soirée. Comment est-ce que je l’aide à trouver sa place ?",
+    "choices": [
+      "Je lui présente quelqu’un qui partage un intérêt",
+      "Je lui propose de préparer quelque chose avec moi",
+      "Je prends un moment à deux pour discuter",
+      "Je lui montre les lieux et la laisse choisir"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "hospitalité"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-036",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quelle rubrique pourrais-je tenir avec plaisir dans un petit journal local ?",
+    "choices": [
+      "Les gens qui font vivre le quartier",
+      "Les lieux discrets à découvrir",
+      "Les objets et gestes d’autrefois",
+      "Les idées concrètes pour améliorer la vie ici"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "invention"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-037",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Le restaurant a oublié ma réservation. Quelle réaction me vient d’abord ?",
+    "choices": [
+      "Chercher une solution avec l’équipe",
+      "Proposer une adresse voisine",
+      "Vérifier calmement ma confirmation",
+      "Transformer le dîner en pique-nique improvisé"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "tempérament"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-038",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quel compliment sur mon travail me resterait le plus longtemps ?",
+    "choices": [
+      "« Tu as rendu ça clair »",
+      "« Tu as osé quelque chose de personnel »",
+      "« On a pu compter sur toi »",
+      "« Tu as fait grandir les autres »"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "reconnaissance"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-039",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Un ami m’apprend quelque chose que je sais déjà. Quelle est ma tendance ?",
+    "choices": [
+      "Le laisser finir pour découvrir son angle",
+      "Lui dire ce que j’en connais déjà",
+      "Poser une question qui va plus loin",
+      "Raconter comment je l’ai découvert aussi"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "échanges"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-040",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Qu’est-ce qui peut transformer une course banale en bon moment pour moi ?",
+    "choices": [
+      "Un échange inattendu",
+      "Trouver exactement ce que je cherchais",
+      "Prendre un chemin plus joli",
+      "Écouter quelque chose qui me passionne"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "préférences"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-041",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Avant de réserver un séjour à deux, quel détail ai-je besoin d’éclaircir ?",
+    "choices": [
+      "Combien chacun souhaite dépenser",
+      "Le rythme qu’on imagine sur place",
+      "Ce qu’on veut absolument faire",
+      "Le temps qu’on gardera pour improviser"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "planification"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-042",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Pour présenter quelqu’un que j’aime, de quoi ai-je envie de parler en premier ?",
+    "choices": [
+      "Un geste qui lui ressemble",
+      "Son talent le plus discret",
+      "Une anecdote qu’on partage",
+      "L’effet de sa présence sur les autres"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "expression"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-043",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quel changement de dernière minute me dérange le moins ?",
+    "choices": [
+      "Changer de lieu en gardant les mêmes personnes",
+      "Décaler l’heure en gardant le programme",
+      "Changer d’activité en gardant l’heure",
+      "Réduire le groupe pour simplifier"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "souplesse"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-044",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "J’ai presque terminé un puzzle, mais il manque une pièce. Que ferais-je volontiers ?",
+    "choices": [
+      "Chercher la pièce encore un moment",
+      "Fabriquer une pièce de remplacement",
+      "Encadrer le puzzle avec son petit vide",
+      "Ranger le tout et choisir le prochain"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "persévérance"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-045",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Qu’aimerais-je le plus transmettre lors d’un atelier de quartier ?",
+    "choices": [
+      "Une recette que je maîtrise",
+      "Une méthode pour s’organiser",
+      "Une passion méconnue",
+      "Un geste pratique qui dépanne"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "partage"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-046",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quel objet aurais-je le plus de plaisir à emprunter plutôt qu’à acheter ?",
+    "choices": [
+      "Un outil que j’utiliserai une fois",
+      "Un livre qu’on pourra ensuite discuter",
+      "Une tenue pour un événement",
+      "Du matériel pour essayer un loisir"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "valeurs"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-047",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quel petit luxe me manquerait le plus pendant une semaine ?",
+    "choices": [
+      "Pouvoir choisir le silence",
+      "Pouvoir bien manger sans cuisiner",
+      "Pouvoir décider au dernier moment",
+      "Pouvoir retrouver mon coin à moi"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "priorités"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-048",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Je retrouve un cahier de mes quinze ans. Qu’est-ce que je lis d’abord ?",
+    "choices": [
+      "Mes projets d’avenir",
+      "Les noms des gens importants",
+      "Les opinions que je défendais",
+      "Les petites histoires du quotidien"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "perspective"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-049",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "À la fin d’une fête, quel geste fais-je le plus naturellement ?",
+    "choices": [
+      "Aider à ranger sans en parler",
+      "Dire au revoir à chacun",
+      "Vérifier que tout le monde peut rentrer",
+      "Envoyer ensuite un mot à la personne qui recevait"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "attention"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-050",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "On me propose deux places pour ce soir. Quel événement prend l’avantage ?",
+    "choices": [
+      "Un artiste dont je connais tout",
+      "Une première où personne ne sait à quoi s’attendre",
+      "Une rencontre avec quelqu’un qui m’inspire",
+      "Une sortie qui ferait très plaisir à mon invité"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "dilemme"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-051",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Sur une photo de groupe que j’aime, qu’est-ce qui compte pour moi ?",
+    "choices": [
+      "Retrouver l’ambiance exacte",
+      "Voir tout le monde à son avantage",
+      "Reconnaître un moment vraiment spontané",
+      "Me souvenir du lieu et de la date"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "identité"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-052",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quand je veux faire durer une nouvelle habitude, qu’est-ce qui m’aide ?",
+    "choices": [
+      "L’associer à un geste déjà quotidien",
+      "La pratiquer avec quelqu’un",
+      "En voir les progrès sur papier",
+      "Pouvoir adapter la règle les jours difficiles"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "habitudes"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-053",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quel imprévu me ferait volontiers écourter une journée bien organisée ?",
+    "choices": [
+      "Une visite rare",
+      "Une occasion d’apprendre sur le terrain",
+      "Un ciel parfait pour une sortie",
+      "Un coup de main dont quelqu’un a besoin"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "priorités"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-054",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Dans une librairie qui ferme dans cinq minutes, vers quoi est-ce que je vais ?",
+    "choices": [
+      "Un auteur que j’aime déjà",
+      "Le conseil manuscrit d’un libraire",
+      "Un sujet qui m’intrigue depuis longtemps",
+      "Un livre à offrir à quelqu’un"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "choix"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-055",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quelle forme prendrait mon mot de remerciement préféré à écrire ?",
+    "choices": [
+      "Deux phrases très précises",
+      "Une anecdote drôle de ce moment",
+      "Une longue lettre personnelle",
+      "Une invitation pour la prochaine fois"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "expression"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-056",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "En regardant de vieilles photos avec un proche, que voudrais-je lui demander ?",
+    "choices": [
+      "« Comment était cette personne au quotidien ? »",
+      "« Qu’est-ce qui se passait juste avant ? »",
+      "« Qu’est devenu cet endroit ? »",
+      "« Qu’aurais-tu voulu savoir à l’époque ? »"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "transmission"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-057",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Quelle place est-ce que je choisis volontiers à une grande tablée ?",
+    "choices": [
+      "Au centre des conversations",
+      "Au bout pour parler tranquillement",
+      "Près de quelqu’un que je connais peu",
+      "Côté cuisine pour aller et venir"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "sociabilité"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-058",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Dans mon agenda idéal, quel rendez-vous revient chaque semaine ?",
+    "choices": [
+      "Un moment pour créer",
+      "Une longue conversation",
+      "Une activité qui me fait bouger",
+      "Une plage vide à garder libre"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "équilibre"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-059",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Un voisin propose un jardin partagé. Qu’est-ce qui me donnerait envie de m’y investir ?",
+    "choices": [
+      "Voir pousser quelque chose de mes mains",
+      "Rencontrer les gens du coin",
+      "Partager les récoltes",
+      "Redonner vie à un terrain oublié"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "engagement"
+      ]
+    }
+  },
+  {
+    "id": "decouverte-060",
+    "category": "decouverte",
+    "intensity": 2,
+    "question": "Pour choisir une activité à deux qui sorte de nos habitudes, quelle question me guide ?",
+    "choices": [
+      "Est-ce que ça nous fera rire ?",
+      "Est-ce qu’on apprendra quelque chose ?",
+      "Est-ce que ça nous laissera un souvenir ?",
+      "Est-ce que chacun pourra y trouver son plaisir ?"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "discernement"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-001",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "Je confie un doute qui me coûte. Quelle réaction me donne envie de continuer ?",
+    "choices": [
+      "Une question posée doucement",
+      "Un silence attentif",
+      "Un merci pour ma confiance",
+      "Un récit qui me fait sentir moins seul"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "confiance"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-002",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Dans un lien très proche, quelle liberté est-ce que je protège le plus ?",
+    "choices": [
+      "Garder du temps sans programme commun",
+      "Pouvoir changer d’avis",
+      "Entretenir mes amitiés en tête-à-tête",
+      "Garder certaines pensées pour moi"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "liberté"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-003",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "Après une parole blessante de ma part, par quoi voudrais-je commencer ?",
+    "choices": [
+      "Reconnaître les mots précis",
+      "Demander ce que l’autre a entendu",
+      "Laisser retomber l’émotion avant de revenir",
+      "Proposer un geste concret de réparation"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "réparation"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-004",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Une belle opportunité m’obligerait à partir six mois. Qu’aurais-je le plus besoin de clarifier ?",
+    "choices": [
+      "Ce que je risquerais de regretter",
+      "Comment préserver mes liens",
+      "Si ce projet correspond encore à mes envies",
+      "Ce que mon absence demanderait aux autres"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "ambition"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-005",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quand une personne importante s’éloigne géographiquement, quel contact nourrit le mieux notre lien ?",
+    "choices": [
+      "Des nouvelles brèves mais fréquentes",
+      "Un long appel de temps en temps",
+      "Une prochaine visite déjà prévue",
+      "Des morceaux de quotidien envoyés spontanément"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "attachement"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-006",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "Quel signal m’indique généralement que j’ai accepté une demande de trop ?",
+    "choices": [
+      "Je deviens irritable pour des détails",
+      "Je repousse tout le reste",
+      "Je m’invente des raisons d’annuler",
+      "Je cesse d’avoir envie d’en parler"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "limites"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-007",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Une joie arrive au milieu d’une période difficile. Comment ai-je envie de l’accueillir ?",
+    "choices": [
+      "En la célébrant franchement",
+      "En la gardant près de moi un moment",
+      "En la partageant avec une personne sûre",
+      "En marquant l’instant par un petit rituel"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "émotions"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-008",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "Deux amis se disputent et me demandent de prendre parti. Quel rôle me convient le mieux ?",
+    "choices": [
+      "Écouter chacun séparément",
+      "Dire honnêtement où je situe mon désaccord",
+      "Proposer une discussion s’ils la souhaitent",
+      "Me tenir à l’écart de leur conflit"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "loyauté"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-009",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Une personne devine que je vais mal pendant un repas de groupe. Quel geste apprécierais-je ?",
+    "choices": [
+      "Un message discret sous la table",
+      "Une proposition de sortir prendre l’air",
+      "Qu’elle revienne vers moi après la soirée",
+      "Un geste familier sans question"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "attention"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-010",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Après avoir longtemps aidé quelqu’un, qu’est-ce qui me ferait sentir que mon effort a été vu ?",
+    "choices": [
+      "Une phrase qui nomme ce que j’ai fait",
+      "Qu’on m’offre un relais",
+      "Voir la personne reprendre confiance",
+      "Qu’on se souvienne aussi de prendre de mes nouvelles"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "reconnaissance"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-011",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "Quelle phrase serait la plus difficile à prononcer lors d’une discussion importante ?",
+    "choices": [
+      "« J’ai besoin d’aide »",
+      "« Je t’en veux encore »",
+      "« Je ne sais plus ce que je veux »",
+      "« J’avais tort sur ce point »"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "vulnérabilité"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-012",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Si personne ne pouvait voir ma prochaine réussite, laquelle garderait le plus de valeur ?",
+    "choices": [
+      "Avoir tenu une promesse faite à moi-même",
+      "Avoir allégé la vie de quelqu’un",
+      "Avoir créé quelque chose de très personnel",
+      "Avoir osé quitter ce qui me pesait"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "réussite"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-013",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Au milieu d’un désaccord, qu’est-ce qui me permet de rester ouvert ?",
+    "choices": [
+      "Entendre mon point de vue reformulé",
+      "Savoir qu’on pourra faire une pause",
+      "Avoir le temps de préciser ma pensée",
+      "Me rappeler ce qui nous rassemble"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "désaccord"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-014",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Une promesse devient réellement impossible à tenir. Quelle démarche compte le plus pour moi ?",
+    "choices": [
+      "Prévenir dès que je le sais",
+      "Expliquer honnêtement ce qui a changé",
+      "Chercher une autre façon d’aider",
+      "Reconnaître la déception que cela provoque"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "promesses"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-015",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "À quoi est-ce que je reconnais une solitude qui me fait du bien ?",
+    "choices": [
+      "J’ai de nouvelles idées",
+      "Je me sens plus calme physiquement",
+      "J’ai de nouveau envie de voir les autres",
+      "Je retrouve mes propres envies"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "solitude"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-016",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quelle règle héritée de mon entourage aimerais-je examiner avant de la transmettre ?",
+    "choices": [
+      "Il faut finir ce qu’on commence",
+      "La famille passe toujours en premier",
+      "On gagne à rester discret sur ses réussites",
+      "Il faut savoir se débrouiller seul"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "transmission"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-017",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quand je raconte un problème pour la deuxième fois, que suis-je le plus souvent en train de chercher ?",
+    "choices": [
+      "Des mots plus justes",
+      "La permission de prendre mon temps",
+      "Un avis que je n’ai pas encore envisagé",
+      "La présence de quelqu’un qui connaît l’histoire"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "écoute"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-018",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quelle forme d’attente implicite aimerais-je rendre plus facile à discuter ?",
+    "choices": [
+      "La fréquence des nouvelles",
+      "L’argent qu’on dépense ensemble",
+      "Le soutien qu’on se doit en période chargée",
+      "La place des proches dans nos décisions"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "attentes"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-019",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quel souvenir discret pourrait me réconcilier avec une année difficile ?",
+    "choices": [
+      "Une personne qui est restée",
+      "Un moment où j’ai su dire stop",
+      "Une chose que j’ai tout de même construite",
+      "Un fou rire que je croyais impossible"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "souvenir"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-020",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "On veut m’aider alors que j’essaie encore par moi-même. Quelle proposition me convient ?",
+    "choices": [
+      "« Je reste dans le coin si tu appelles »",
+      "« Tu veux juste un indice ? »",
+      "« On essaie chacun de notre côté ? »",
+      "« Dis-moi quelle partie je peux prendre »"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "autonomie"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-021",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "Après une confidence répétée sans mon accord, qu’est-ce qui pèserait le plus dans la suite ?",
+    "choices": [
+      "La manière dont la personne le reconnaît",
+      "Les actes qu’elle pose pour limiter les dégâts",
+      "Sa capacité à respecter ma distance",
+      "La constance de sa discrétion avec le temps"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "confiance"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-022",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Si une ancienne version de moi rencontrait celle d’aujourd’hui, qu’aimerais-je lui montrer ?",
+    "choices": [
+      "Une limite que j’arrive enfin à poser",
+      "Une envie que j’ai gardée intacte",
+      "Une relation que j’ai appris à entretenir",
+      "Une peur qui décide moins à ma place"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "changement"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-023",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "On félicite quelqu’un d’autre pour une de mes idées. Quelle issue me satisferait le plus ?",
+    "choices": [
+      "Que la personne rétablisse les faits en public",
+      "Qu’on reconnaisse mon rôle en privé",
+      "Que la répartition soit claire pour la suite",
+      "Que je puisse en parler directement avec elle"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "justice"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-024",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quand une relation devient importante très vite, de quoi ai-je besoin pour garder mon équilibre ?",
+    "choices": [
+      "Continuer mes habitudes personnelles",
+      "Mettre des mots sur ce qui se passe",
+      "Laisser le quotidien confirmer l’élan",
+      "Partager mon enthousiasme avec une personne de confiance"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "rythme"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-025",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "Quelle occasion manquée me resterait probablement le plus longtemps en tête ?",
+    "choices": [
+      "Ne pas avoir dit merci à temps",
+      "Avoir renoncé par peur du regard des autres",
+      "Ne pas avoir pris la défense de quelqu’un",
+      "Avoir laissé un rêve attendre trop longtemps"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "regret"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-026",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Une réponse importante tarde à arriver. Qu’est-ce qui m’aide à vivre l’attente ?",
+    "choices": [
+      "Préparer deux scénarios possibles",
+      "Consacrer mon énergie à autre chose",
+      "Dire à quelqu’un ce qui m’inquiète",
+      "Fixer une date à laquelle je relancerai"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "incertitude"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-027",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quand une personne que j’aime traverse un échec, quelle aide me vient le plus naturellement ?",
+    "choices": [
+      "L’écouter raconter ce qui s’est passé",
+      "Prendre en charge un détail pratique",
+      "Lui rappeler une force que je lui connais",
+      "Lui offrir un moment de répit"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "soutien"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-028",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Une décision raisonnable sur le papier me laisse un malaise. Que voudrais-je vérifier en premier ?",
+    "choices": [
+      "Si j’ai négligé une valeur importante",
+      "Si j’agis pour éviter de décevoir",
+      "Si j’ai assez d’informations",
+      "Si j’ai eu le temps de souffler"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "valeurs"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-029",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quel moment banal peut particulièrement me donner le sentiment d’être proche de quelqu’un ?",
+    "choices": [
+      "Pouvoir rester en silence sans meubler",
+      "Faire ensemble une tâche peu plaisante",
+      "Entendre une histoire encore jamais racontée",
+      "Être compris après une seule phrase"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-030",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Après une période où j’ai perdu mes repères, quel petit signe me ferait dire que je reviens à moi ?",
+    "choices": [
+      "Je recommence à imaginer la suite",
+      "Je retrouve mon humour",
+      "Je me sens capable de demander quelque chose",
+      "Je prends plaisir à mes gestes habituels"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "résilience"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-031",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quel aspect de moi aimerais-je qu’on laisse évoluer sans me rappeler sans cesse mon passé ?",
+    "choices": [
+      "Mes opinions",
+      "Mon rapport au travail",
+      "Ma façon d’aimer",
+      "Les projets que je choisis"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "identité"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-032",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "J’ai oublié un rendez-vous qui comptait pour l’autre. Qu’est-ce que je voudrais réussir à faire ?",
+    "choices": [
+      "Écouter sa déception sans me justifier",
+      "Lui proposer un nouveau moment soigné",
+      "Mettre en place un rappel pour la suite",
+      "Lui dire précisément pourquoi ce moment comptait"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "responsabilité"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-033",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quel signe me ferait rouvrir une discussion sur le partage des responsabilités ?",
+    "choices": [
+      "Une personne doit toujours penser à rappeler les choses",
+      "Les temps de repos deviennent très inégaux",
+      "On ne se remercie plus du tout",
+      "Les tâches empêchent l’un de poursuivre un projet"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "équilibre"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-034",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Dans une amitié de longue date, quel changement me demanderait le plus d’adaptation ?",
+    "choices": [
+      "Ne plus se voir aussi souvent",
+      "Avoir désormais des valeurs différentes",
+      "Passer de confident à simple camarade",
+      "Devoir prendre les rendez-vous très à l’avance"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "amitié"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-035",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Dans quel geste discret est-ce que je reconnais le plus le courage ?",
+    "choices": [
+      "Admettre qu’on a besoin de soutien",
+      "Revenir sur une décision très applaudie",
+      "Tenir une limite face à quelqu’un qu’on aime",
+      "Recommencer sans garantie de réussite"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "courage"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-036",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quand l’autre dit oui à ma demande, quel détail m’aide à croire que son accord est libre ?",
+    "choices": [
+      "Il a pris le temps d’y réfléchir",
+      "Il a pu proposer une autre formule",
+      "Il sait que j’accepte aussi un refus",
+      "Il explique ce qui lui fait envie"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "accord"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-037",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Après une dispute, à quelle condition une pause me fait-elle du bien ?",
+    "choices": [
+      "Nous convenons d’un moment pour en reparler",
+      "Chacun peut retrouver son calme à sa manière",
+      "Un mot tendre rappelle que le lien demeure",
+      "Je sais ce que l’autre a besoin de comprendre"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "silence"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-038",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Si je devais renoncer à un avantage pour rester fidèle à moi-même, lequel lâcherais-je le plus facilement ?",
+    "choices": [
+      "Du prestige",
+      "Une place confortable dans un groupe",
+      "Une somme d’argent inattendue",
+      "Du temps gagné"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "valeurs"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-039",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quel projet à long terme me toucherait le plus si quelqu’un proposait de le construire avec moi ?",
+    "choices": [
+      "Un lieu où recevoir les gens qu’on aime",
+      "Un grand voyage préparé lentement",
+      "Une œuvre ou un projet créatif à deux",
+      "Une manière d’aider régulièrement autour de nous"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "espoir"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-040",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quand la réussite d’un proche réveille de l’envie en moi, que m’apprend-elle le plus volontiers ?",
+    "choices": [
+      "Qu’un désir mérite d’être pris au sérieux",
+      "Que j’ai besoin de reconnaître mes progrès",
+      "Que je me mesure à un calendrier trop strict",
+      "Que certains aspects de sa vie m’inspirent"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "comparaison"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-041",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "À quoi est-ce que je reconnais des excuses qui me touchent ?",
+    "choices": [
+      "Elles nomment précisément le tort causé",
+      "Elles laissent de la place à ma réaction",
+      "Elles ne réclament pas de pardon immédiat",
+      "Elles sont suivies d’un comportement différent"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "réparation"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-042",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quel accueil me fait sentir que j’ai vraiment ma place dans un nouveau cercle ?",
+    "choices": [
+      "On me redonne des nouvelles après la première rencontre",
+      "On m’invite à contribuer à ma façon",
+      "On m’explique les habitudes du groupe",
+      "Je peux exprimer un avis différent librement"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "appartenance"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-043",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "Quelle question préférerais-je qu’on me pose avant d’agir pour mon bien ?",
+    "choices": [
+      "« Veux-tu que j’en parle à quelqu’un ? »",
+      "« Est-ce que tu souhaites mon avis ? »",
+      "« De quoi as-tu besoin aujourd’hui ? »",
+      "« Tu préfères t’en charger toi-même ? »"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "frontières"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-044",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Si je pouvais rendre une habitude plus présente dans mes liens, laquelle choisirais-je ?",
+    "choices": [
+      "Dire clairement quand quelqu’un me manque",
+      "Demander des nouvelles après une date importante",
+      "Revenir sur les désaccords restés en suspens",
+      "Remercier pendant que les choses se passent"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "temps"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-045",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quand quelqu’un que j’admire défend une idée qui me dérange, quelle est ma première envie ?",
+    "choices": [
+      "Comprendre son raisonnement",
+      "Chercher des regards différents",
+      "Lui dire où se situe mon malaise",
+      "Prendre du recul avant de répondre"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "autorité"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-046",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Dans une période de changement, quel repère me sécurise le plus ?",
+    "choices": [
+      "Une personne joignable",
+      "Un lieu familier",
+      "Une routine que je peux garder",
+      "Un plan précis pour les prochains jours"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "sécurité"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-047",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Une personne que j’aime a besoin de plus d’espace. Qu’aimerais-je savoir pour bien le vivre ?",
+    "choices": [
+      "Comment elle voudrait qu’on garde contact",
+      "Ce que cet espace lui permet de retrouver",
+      "Quand nous pourrons en reparler",
+      "Ce qui continue de lui faire du bien entre nous"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "attachement"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-048",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "En fin de journée, quelle pensée me donne le plus souvent un sentiment d’utilité ?",
+    "choices": [
+      "Quelqu’un s’est senti moins seul",
+      "J’ai rendu une chose compliquée plus simple",
+      "J’ai fait un petit pas vers un projet important",
+      "J’ai consacré du temps à ce qui compte pour moi"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "sens"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-049",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quel sujet devient plus facile à aborder pour moi pendant une promenade ?",
+    "choices": [
+      "Une déception récente",
+      "Un choix d’avenir",
+      "Un besoin que je formule mal",
+      "Un désaccord qui tourne en rond"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "conflit"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-050",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quand quelqu’un raconte ma réussite devant d’autres personnes, que préférerais-je qu’il souligne ?",
+    "choices": [
+      "L’effort qu’on n’a pas vu",
+      "L’aide que j’ai reçue",
+      "Le risque que j’ai accepté",
+      "La joie que cela m’a apportée"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "fierté"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-051",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "Une tradition commune ne me fait plus autant de bien. Quelle évolution me semblerait juste ?",
+    "choices": [
+      "La transformer ensemble",
+      "La garder pour certaines occasions",
+      "Dire ce que j’aimais avant de proposer autre chose",
+      "Faire une pause et voir si elle nous manque"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "fidélité"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-052",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quelle boussole m’aide le plus lorsque deux décisions respectables s’opposent ?",
+    "choices": [
+      "Ce que je pourrai assumer dans un an",
+      "L’impact sur les personnes concernées",
+      "Ce que je conseillerais à quelqu’un que j’aime",
+      "Le choix que je fais quand personne ne me regarde"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "choix"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-053",
+    "category": "profondeur",
+    "intensity": 3,
+    "question": "Pendant une période chargée, quelle petite promesse tenue a le plus de poids pour moi ?",
+    "choices": [
+      "Appeler au moment convenu",
+      "Prévenir quand le programme change",
+      "Revenir sur un sujet important",
+      "Me garder une place dans un projet"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "confiance"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-054",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Un proche me décrit d’une façon que je ne reconnais pas. Qu’aurais-je envie de lui demander ?",
+    "choices": [
+      "« À quel moment as-tu vu ça chez moi ? »",
+      "« Est-ce récent pour toi ? »",
+      "« Comment le vis-tu quand ça arrive ? »",
+      "« Tu me vois aussi autrement ? »"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "perception"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-055",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Si je pouvais remercier une personne du passé en une seule phrase, pour quoi le ferais-je ?",
+    "choices": [
+      "M’avoir donné une chance",
+      "M’avoir dit une vérité difficile",
+      "Être restée à mes côtés dans une période floue",
+      "M’avoir montré une autre manière de vivre"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "gratitude"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-056",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Lors d’une grande décision qui m’appartient, qu’est-ce que j’attends surtout d’un proche ?",
+    "choices": [
+      "Qu’il m’aide à entendre ma propre envie",
+      "Qu’il questionne mes angles morts",
+      "Qu’il m’assure de sa présence ensuite",
+      "Qu’il me laisse le temps sans relancer"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "appui"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-057",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quand deux personnes donnent beaucoup mais de manière différente, que voudrais-je regarder avec elles ?",
+    "choices": [
+      "L’effort que chacun ressent réellement",
+      "Les besoins que chaque geste vient combler",
+      "Ce que l’on pourrait simplifier ensemble",
+      "Les contributions que l’autre voit rarement"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "équité"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-058",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Quel changement personnel aimerais-je pouvoir annoncer sans devoir tout justifier ?",
+    "choices": [
+      "Vouloir une vie plus calme",
+      "Choisir un métier moins attendu",
+      "Changer de cercle social",
+      "Renoncer à un projet autrefois essentiel"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "évolution"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-059",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "À la fin d’une longue conversation sincère, qu’aimerais-je que l’autre garde de moi ?",
+    "choices": [
+      "Une idée qu’il n’avait pas envisagée",
+      "Le sentiment d’avoir été écouté",
+      "Un détail qui explique mieux mes réactions",
+      "L’envie de poursuivre la conversation un jour"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "mémoire"
+      ]
+    }
+  },
+  {
+    "id": "profondeur-060",
+    "category": "profondeur",
+    "intensity": 2,
+    "question": "Dans dix ans, quel signe simple me ferait penser que j’ai pris soin de mes liens ?",
+    "choices": [
+      "Je sais encore ce qui préoccupe mes proches",
+      "On peut se retrouver après de longs silences",
+      "On continue d’inventer des souvenirs ensemble",
+      "Chacun se sent libre de changer auprès de moi"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "avenir"
+      ]
+    }
+  },
+  {
+    "id": "seduction-001",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Dans un dîner où je connais peu de monde, quel geste pourrait me charmer ?",
+    "choices": [
+      "Me garder une place à côté",
+      "Me glisser une observation drôle",
+      "Me présenter à quelqu’un qui partage mes goûts"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "rencontre"
+      ]
+    }
+  },
+  {
+    "id": "seduction-002",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Un premier rendez-vous se prolonge. Quelle suite me tente le plus ?",
+    "choices": [
+      "Marcher encore un peu",
+      "Trouver un dernier morceau à écouter",
+      "Se quitter sur une invitation précise"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "initiative"
+      ]
+    }
+  },
+  {
+    "id": "seduction-003",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quel compliment me revient en tête longtemps après ?",
+    "choices": [
+      "« Tu sais mettre les gens à l’aise. »",
+      "« J’aime ta façon de raconter. »",
+      "« Tu as une allure bien à toi. »"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "compliments"
+      ]
+    }
+  },
+  {
+    "id": "seduction-004",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "À une terrasse bruyante, comment montrerais-je mon intérêt ?",
+    "choices": [
+      "Me tourner franchement vers l’autre",
+      "Poser une question sur un détail de son histoire",
+      "Proposer de poursuivre ailleurs au calme"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "attention"
+      ]
+    }
+  },
+  {
+    "id": "seduction-005",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Je reçois une chanson après un rendez-vous. Quel détail me touche ?",
+    "choices": [
+      "Une phrase qui explique le choix",
+      "Un souvenir commun dans les paroles",
+      "L’invitation à envoyer la mienne"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "musique"
+      ]
+    }
+  },
+  {
+    "id": "seduction-006",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Quel souvenir de rencontre aimerais-je garder ?",
+    "choices": [
+      "Un fou rire qui a surpris tout le monde",
+      "Une conversation qu’on a oubliée de finir",
+      "Un moment calme au milieu du bruit"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "souvenirs"
+      ]
+    }
+  },
+  {
+    "id": "seduction-007",
+    "category": "seduction",
+    "intensity": 3,
+    "question": "Lorsqu’on me plaît, qu’est-ce qui risque de me trahir ?",
+    "choices": [
+      "Je retiens des détails minuscules",
+      "Je parle plus vite",
+      "Je trouve des excuses pour rester"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "attirance"
+      ]
+    }
+  },
+  {
+    "id": "seduction-008",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "À deux dans une librairie, quel petit jeu me séduit ?",
+    "choices": [
+      "Choisir un livre l’un pour l’autre",
+      "Chercher le titre qui décrit notre rencontre",
+      "Lire à voix basse une première phrase"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "imagination"
+      ]
+    }
+  },
+  {
+    "id": "seduction-009",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "On a prévu un pique-nique et il pleut. Quelle réaction a du charme ?",
+    "choices": [
+      "Improviser une table au salon",
+      "Rire de notre malchance sous un porche",
+      "Dénicher un café avec vue sur la pluie"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "improvisation"
+      ]
+    }
+  },
+  {
+    "id": "seduction-010",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quel talent discret me ferait regarder quelqu’un autrement ?",
+    "choices": [
+      "Faire exister la personne la plus silencieuse",
+      "Raconter une histoire sans écraser les autres",
+      "Transformer trois restes en bon dîner"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "valeurs"
+      ]
+    }
+  },
+  {
+    "id": "seduction-011",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Pour un rendez-vous surprise, quelle information aimerais-je recevoir ?",
+    "choices": [
+      "La tenue qui me permettra d’être à l’aise",
+      "L’heure à laquelle je serai de retour",
+      "Un indice un peu mystérieux"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "surprise"
+      ]
+    }
+  },
+  {
+    "id": "seduction-012",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Dans une file d’attente interminable, qu’est-ce qui crée de la complicité pour moi ?",
+    "choices": [
+      "Inventer une histoire à deux",
+      "Se lancer un défi d’observation",
+      "Profiter du temps pour parler vraiment"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "complicité"
+      ]
+    }
+  },
+  {
+    "id": "seduction-013",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quel genre de taquinerie me fait sourire ?",
+    "choices": [
+      "Une exagération absurde sur une qualité",
+      "Un rappel d’une petite aventure commune",
+      "Un duel de réparties que j’ai initié"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "humour"
+      ]
+    }
+  },
+  {
+    "id": "seduction-014",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Une personne m’offre une fleur. Quelle histoire derrière son choix me plaît ?",
+    "choices": [
+      "Elle l’a reconnue sur une photo que j’aimais",
+      "Elle l’a choisie pour son parfum étrange",
+      "Elle voulait marquer un mardi ordinaire"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "cadeaux"
+      ]
+    }
+  },
+  {
+    "id": "seduction-015",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quand une conversation s’interrompt, qu’est-ce qui me met à l’aise ?",
+    "choices": [
+      "Un sourire et quelques secondes tranquilles",
+      "Une question légère sur ce qui nous entoure",
+      "Un aveu amusé sur notre silence"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "silence"
+      ]
+    }
+  },
+  {
+    "id": "seduction-016",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quel message me donnerait le plus envie de revoir quelqu’un ?",
+    "choices": [
+      "« J’ai trouvé où continuer notre débat. »",
+      "« Je repense à ton rire. »",
+      "« Tu es libre jeudi pour une balade ? »"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "retrouvailles"
+      ]
+    }
+  },
+  {
+    "id": "seduction-017",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Pendant une danse que je maîtrise mal, j’aimerais que l’autre…",
+    "choices": [
+      "Invente un pas facile avec moi",
+      "Se trompe en riant à mes côtés",
+      "Me propose de simplement écouter"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "danse"
+      ]
+    }
+  },
+  {
+    "id": "seduction-018",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Quel détail d’une tenue attire mon attention ?",
+    "choices": [
+      "Un accessoire qui a une histoire",
+      "Une couleur assumée",
+      "La façon naturelle de la porter"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "style"
+      ]
+    }
+  },
+  {
+    "id": "seduction-019",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Si on cuisine ensemble, où naît le charme pour moi ?",
+    "choices": [
+      "En goûtant chacun la sauce de l’autre",
+      "En trouvant spontanément notre rythme",
+      "En mettant une musique que l’autre aime"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "cuisine"
+      ]
+    }
+  },
+  {
+    "id": "seduction-020",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quel petit rituel aimerais-je voir apparaître entre nous ?",
+    "choices": [
+      "Un mot inventé pour se dire bonsoir",
+      "Un café au même endroit de temps en temps",
+      "Une photo de ce qui nous a fait sourire"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "rituels"
+      ]
+    }
+  },
+  {
+    "id": "seduction-021",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Une invitation de dernière minute me tente davantage si…",
+    "choices": [
+      "Je peux proposer une autre heure",
+      "Elle décrit une envie très précise",
+      "Elle laisse la soirée ouverte"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "disponibilité"
+      ]
+    }
+  },
+  {
+    "id": "seduction-022",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quelle forme d’assurance me plaît le plus ?",
+    "choices": [
+      "Oser dire « je ne sais pas »",
+      "Annoncer clairement son intérêt",
+      "Garder son propre avis avec douceur"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "assurance"
+      ]
+    }
+  },
+  {
+    "id": "seduction-023",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "On se retrouve après quelques semaines. Qu’est-ce qui ravive le charme ?",
+    "choices": [
+      "Reprendre un sujet là où on l’avait laissé",
+      "Remarquer ce qui a changé chez l’autre",
+      "Faire ensemble quelque chose d’inédit"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "retrouvailles"
+      ]
+    }
+  },
+  {
+    "id": "seduction-024",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Dans un musée, quel moment pourrait devenir romantique ?",
+    "choices": [
+      "Défendre chacun notre tableau préféré",
+      "S’asseoir devant la même œuvre sans parler",
+      "Choisir une carte postale pour l’autre"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "art"
+      ]
+    }
+  },
+  {
+    "id": "seduction-025",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Quel genre de photo aimerais-je recevoir en pensant à notre prochain rendez-vous ?",
+    "choices": [
+      "Le lieu sous une belle lumière",
+      "Un indice sur une surprise",
+      "Un objet qui rappelle notre première sortie"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "messages"
+      ]
+    }
+  },
+  {
+    "id": "seduction-026",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Au téléphone, qu’est-ce qui rend une voix séduisante à mes oreilles ?",
+    "choices": [
+      "Le rire qui interrompt une phrase",
+      "Une attention réelle à mes réponses",
+      "La façon de prendre son temps"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "voix"
+      ]
+    }
+  },
+  {
+    "id": "seduction-027",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Pour proposer une deuxième rencontre, mon style serait plutôt…",
+    "choices": [
+      "Dire franchement que j’en ai envie",
+      "Rebondir sur une activité dont on a parlé",
+      "Envoyer un clin d’œil puis lancer l’invitation"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "initiative"
+      ]
+    }
+  },
+  {
+    "id": "seduction-028",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quelle scène de fin de soirée me ressemble ?",
+    "choices": [
+      "Rester un peu sur le pas de la porte",
+      "Écrire une fois rentré chez moi",
+      "Convenir tout de suite d’une prochaine date"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "séparation"
+      ]
+    }
+  },
+  {
+    "id": "seduction-029",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Lors d’un voyage en train à deux, je préférerais…",
+    "choices": [
+      "Partager une playlist et regarder défiler le paysage",
+      "Tirer des questions d’un chapeau",
+      "Descendre pour déjeuner dans une ville imprévue"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "voyage"
+      ]
+    }
+  },
+  {
+    "id": "seduction-030",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "On ne partage pas du tout les mêmes goûts musicaux. Quel échange m’amuserait ?",
+    "choices": [
+      "Défendre chacun notre morceau le plus improbable",
+      "Trouver une chanson qu’on aime tous les deux",
+      "Raconter qui nous a fait découvrir ce style"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "musique"
+      ]
+    }
+  },
+  {
+    "id": "seduction-031",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quelle attention me semble la plus personnelle au petit matin ?",
+    "choices": [
+      "Se rappeler comment je prends ma boisson",
+      "Me laisser un mot avant de partir",
+      "M’accorder du calme avant de discuter"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "attention"
+      ]
+    }
+  },
+  {
+    "id": "seduction-032",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Si je préparais une surprise avec dix francs, je choisirais…",
+    "choices": [
+      "Deux pâtisseries et un banc au soleil",
+      "Une carte écrite de ma main",
+      "De quoi inventer un cocktail maison"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "cadeaux"
+      ]
+    }
+  },
+  {
+    "id": "seduction-033",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quel souvenir partagé raconterais-je avec le plus de plaisir ?",
+    "choices": [
+      "La fois où tout a déraillé avec grâce",
+      "Le moment où j’ai compris un signe discret",
+      "La sortie improvisée qui nous ressemble"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "souvenirs"
+      ]
+    }
+  },
+  {
+    "id": "seduction-034",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quel contraste pourrait m’intriguer chez quelqu’un ?",
+    "choices": [
+      "Une allure réservée et un humour audacieux",
+      "Une énergie vive et une écoute patiente",
+      "Un esprit très pratique et des rêves immenses"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "contrastes"
+      ]
+    }
+  },
+  {
+    "id": "seduction-035",
+    "category": "seduction",
+    "intensity": 3,
+    "question": "On me dit « tu me plais ». Qu’est-ce qui rend la phrase particulièrement touchante ?",
+    "choices": [
+      "Elle arrive dans un moment tout simple",
+      "Elle s’accompagne d’un détail précis",
+      "Elle me laisse le temps de répondre"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "attirance"
+      ]
+    }
+  },
+  {
+    "id": "seduction-036",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Pour retrouver notre complicité après une journée chargée, je choisirais…",
+    "choices": [
+      "Dix minutes de promenade sans téléphone",
+      "Une anecdote drôle chacun",
+      "Une chanson rien que pour nous"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "rituels"
+      ]
+    }
+  },
+  {
+    "id": "seduction-037",
+    "category": "seduction",
+    "intensity": 3,
+    "question": "Dans une soirée entre amis, quel signe discret me ferait sourire ?",
+    "choices": [
+      "Un regard après une plaisanterie que nous seuls comprenons",
+      "Un message complice depuis l’autre bout de la pièce",
+      "Une proposition de prendre l’air ensemble"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "discrétion"
+      ]
+    }
+  },
+  {
+    "id": "seduction-038",
+    "category": "seduction",
+    "intensity": 3,
+    "question": "Quel type de lettre aurais-je plaisir à recevoir ?",
+    "choices": [
+      "Le récit d’un moment vu par l’autre",
+      "Une invitation à une journée rêvée",
+      "Une liste de mes petites habitudes aimées"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "écriture"
+      ]
+    }
+  },
+  {
+    "id": "seduction-039",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Pour un rendez-vous à la maison, je soignerais d’abord…",
+    "choices": [
+      "La lumière pour que l’endroit soit accueillant",
+      "Un plat qui raconte quelque chose de moi",
+      "Un coin confortable où parler longtemps"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "ambiance"
+      ]
+    }
+  },
+  {
+    "id": "seduction-040",
+    "category": "seduction",
+    "intensity": 3,
+    "question": "Si l’autre rougit après un compliment, ma réaction naturelle serait…",
+    "choices": [
+      "Sourire et laisser passer le moment",
+      "Dire simplement que je le pensais",
+      "Partager un compliment qui m’a aussi déstabilisé"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "compliments"
+      ]
+    }
+  },
+  {
+    "id": "seduction-041",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Qu’est-ce qui donne du relief à une longue balade à deux ?",
+    "choices": [
+      "Faire un détour pour voir ce qu’il y a plus loin",
+      "S’arrêter là où l’autre ralentit",
+      "Se raconter chacun un lieu du passé"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "promenade"
+      ]
+    }
+  },
+  {
+    "id": "seduction-042",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quelle manière de recevoir mon humour me touche ?",
+    "choices": [
+      "Rire avant même la chute",
+      "Reprendre la blague plusieurs jours après",
+      "Ajouter une réplique encore meilleure"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "humour"
+      ]
+    }
+  },
+  {
+    "id": "seduction-043",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Un rendez-vous commence avec dix minutes de retard. Quel geste relance bien le moment ?",
+    "choices": [
+      "Un mot sincère puis une présence entière",
+      "Une anecdote amusante sur le trajet",
+      "Me laisser choisir notre première étape"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "imprévus"
+      ]
+    }
+  },
+  {
+    "id": "seduction-044",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Si nous faisions un portrait l’un de l’autre, je préférerais…",
+    "choices": [
+      "Trois phrases écrites séparément",
+      "Un croquis maladroit et spontané",
+      "Une sélection de trois objets symboliques"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "créativité"
+      ]
+    }
+  },
+  {
+    "id": "seduction-045",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quelle forme de mystère me donne envie de découvrir quelqu’un ?",
+    "choices": [
+      "Un loisir inattendu qui se révèle peu à peu",
+      "Une anecdote qu’on me promet pour la prochaine fois",
+      "Une manière différente de voir un lieu familier"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "mystère"
+      ]
+    }
+  },
+  {
+    "id": "seduction-046",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quand je fais un effort pour une sortie, qu’aimerais-je qu’on remarque ?",
+    "choices": [
+      "L’idée que j’ai choisie pour nous deux",
+      "Le soin que j’ai pris à m’habiller",
+      "Le temps que j’ai libéré pour être là"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "reconnaissance"
+      ]
+    }
+  },
+  {
+    "id": "seduction-047",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "On hésite entre sortir et rester. Quelle proposition a du charme pour moi ?",
+    "choices": [
+      "Tirer à pile ou face après deux bonnes idées",
+      "M’expliquer ce qui ferait vraiment plaisir ce soir",
+      "Commencer dehors et décider ensemble de la suite"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "initiative"
+      ]
+    }
+  },
+  {
+    "id": "seduction-048",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quel souvenir sonore associerais-je volontiers à une histoire à deux ?",
+    "choices": [
+      "Une musique entendue par hasard",
+      "Un éclat de rire enregistré avec accord",
+      "Le bruit familier d’un lieu où on se retrouve"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "souvenirs"
+      ]
+    }
+  },
+  {
+    "id": "seduction-049",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Quel jeu de conversation choisirais-je pour un dessert qui s’éternise ?",
+    "choices": [
+      "Imaginer notre café idéal",
+      "Échanger deux vérités et un rêve",
+      "Inventer un rendez-vous pour nos versions de quatre-vingts ans"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "imagination"
+      ]
+    }
+  },
+  {
+    "id": "seduction-050",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Qu’est-ce qui rend une invitation élégante à mes yeux ?",
+    "choices": [
+      "Elle tient compte de mon emploi du temps",
+      "Elle me laisse une vraie liberté de réponse",
+      "Elle contient un détail que je suis seul à comprendre"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "invitations"
+      ]
+    }
+  },
+  {
+    "id": "seduction-051",
+    "category": "seduction",
+    "intensity": 3,
+    "question": "Face à une personne qui me plaît mais semble timide, je serais tenté de…",
+    "choices": [
+      "Dire clairement que j’apprécie sa compagnie",
+      "Proposer une activité côte à côte",
+      "Lui laisser l’initiative du prochain pas"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "timidité"
+      ]
+    }
+  },
+  {
+    "id": "seduction-052",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Dans un marché de nuit, quel moment aurait le plus de charme ?",
+    "choices": [
+      "Choisir mutuellement une saveur à goûter",
+      "Se perdre dans les allées au hasard",
+      "Trouver un coin tranquille derrière l’agitation"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "exploration"
+      ]
+    }
+  },
+  {
+    "id": "seduction-053",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Si on me décrivait par une image séduisante, je préférerais…",
+    "choices": [
+      "Une lumière qu’on reconnaît de loin",
+      "Une musique qui change à chaque écoute",
+      "Un lieu où l’on a envie de s’attarder"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "images de soi"
+      ]
+    }
+  },
+  {
+    "id": "seduction-054",
+    "category": "seduction",
+    "intensity": 3,
+    "question": "Quel petit risque romantique serais-je le plus prêt à prendre ?",
+    "choices": [
+      "Montrer un texte encore imparfait",
+      "Proposer un voyage à la journée",
+      "Dire que l’absence de l’autre se remarque"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "vulnérabilité"
+      ]
+    }
+  },
+  {
+    "id": "seduction-055",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Qu’aimerais-je découvrir en visitant le quartier préféré de l’autre ?",
+    "choices": [
+      "Le banc où l’autre venait réfléchir",
+      "L’adresse que personne ne connaît",
+      "Les commerçants avec qui l’autre aime bavarder"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "souvenirs"
+      ]
+    }
+  },
+  {
+    "id": "seduction-056",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Quand un rendez-vous s’est bien passé, qu’est-ce qui reste le plus net ?",
+    "choices": [
+      "Une phrase exacte",
+      "Une sensation d’aisance",
+      "L’image d’un geste ou d’un regard"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "mémoire sensorielle"
+      ]
+    }
+  },
+  {
+    "id": "seduction-057",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Un anniversaire tombe un jour de travail. Quel geste discret choisirais-je ?",
+    "choices": [
+      "Faire arriver un petit déjeuner choisi avec soin",
+      "Réserver un moment à deux après la journée",
+      "Glisser quelques souvenirs dans une enveloppe"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "attentions"
+      ]
+    }
+  },
+  {
+    "id": "seduction-058",
+    "category": "seduction",
+    "intensity": 1,
+    "question": "Qu’est-ce qui transforme pour moi un trajet ordinaire en rendez-vous ?",
+    "choices": [
+      "Faire un arrêt exprès pour regarder la vue",
+      "Échanger nos écouteurs pour un morceau",
+      "Se poser une question qu’on garde depuis longtemps"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "conversation"
+      ]
+    }
+  },
+  {
+    "id": "seduction-059",
+    "category": "seduction",
+    "intensity": 3,
+    "question": "Quel objet du quotidien se prêterait le mieux à une déclaration à ma façon ?",
+    "choices": [
+      "Un ticket annoté au dos",
+      "Un marque-page avec une phrase choisie",
+      "Un calendrier où entourer notre prochaine sortie"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "déclarations"
+      ]
+    }
+  },
+  {
+    "id": "seduction-060",
+    "category": "seduction",
+    "intensity": 2,
+    "question": "Si je pouvais revivre trente secondes d’un beau rendez-vous, je choisirais…",
+    "choices": [
+      "L’instant où j’ai senti la nervosité retomber",
+      "Le moment d’une surprise réussie",
+      "Les dernières secondes avant de se quitter"
+    ],
+    "allowSkip": true,
+    "adult": false,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "séduction",
+        "attirance"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-001",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Pour ouvrir une conversation sur le désir, quel cadre me conviendrait ?",
+    "choices": [
+      "Une promenade où les regards peuvent se poser ailleurs",
+      "Une soirée tranquille, face à face",
+      "Un échange écrit que je peux relire"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "désir"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-002",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Une idée intime m’intrigue sans que je sache si elle me plaît. Je préférerais…",
+    "choices": [
+      "En parler comme d’une fiction",
+      "Demander ce qui attire l’autre dans cette idée",
+      "Garder la question pour moi quelque temps"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "curiosité"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-003",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quel début d’invitation à un baiser me ressemble ?",
+    "choices": [
+      "« J’aimerais t’embrasser. Ça te dirait ? »",
+      "« Est-ce que je peux me rapprocher ? »",
+      "« Si tu en as envie aussi, je te laisse commencer. »"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "consentement"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-004",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Quand je formule une limite, quelle réponse me ferait le plus de bien ?",
+    "choices": [
+      "Un merci pour ma franchise",
+      "Un simple accord suivi d’un autre sujet",
+      "Une question sur ce qui me conviendrait davantage"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "limites"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-005",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quel rôle de l’imagination me plaît le plus ?",
+    "choices": [
+      "Inventer une scène qui restera imaginaire",
+      "Donner des mots à une envie possible",
+      "Créer de la complicité en racontant à deux"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "fantasmes"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-006",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Si nos envies n’arrivent pas au même moment, je préfère…",
+    "choices": [
+      "Garder une tendresse qui nous convient aux deux",
+      "Prendre un peu de temps chacun",
+      "Proposer d’en reparler un autre jour"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "rythme"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-007",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Pour évoquer un fantasme personnel, quel format me rendrait plus libre ?",
+    "choices": [
+      "Une histoire racontée à la troisième personne",
+      "Une conversation très directe",
+      "Une carte à laquelle je peux choisir de répondre"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "fantasmes"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-008",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Quelle nuance aimerais-je pouvoir exprimer facilement ?",
+    "choices": [
+      "« Ça me plaît en pensée seulement. »",
+      "« J’en ai envie, mais une autre fois. »",
+      "« J’ai besoin d’en savoir davantage. »"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "ambivalence"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-009",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Lorsqu’on se rapproche pour la première fois, quoi me rassure le plus ?",
+    "choices": [
+      "Que l’autre demande avant de tenter un geste",
+      "Que je puisse prendre moi-même l’initiative",
+      "Que l’on parle d’abord de notre rythme"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "proximité"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-010",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Comment préférerais-je confier ce qui me fait me sentir désirable ?",
+    "choices": [
+      "En citant un moment où je l’ai ressenti",
+      "En expliquant les mots qui m’atteignent",
+      "En décrivant l’attention dont j’ai envie"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "désirabilité"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-011",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quelle ambiance conviendrait à une première confidence intime ?",
+    "choices": [
+      "Un peu d’humour pour ouvrir la porte",
+      "Des paroles posées et très simples",
+      "Du temps sans obligation d’aller au bout"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "confidence"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-012",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Une idée partagée hier ne me tente plus ce soir. Que préférerais-je dire ?",
+    "choices": [
+      "« Mon envie a changé. »",
+      "« J’aimerais qu’on reste dans la tendresse. »",
+      "« J’ai besoin d’un moment pour moi. »"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "limites"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-013",
+    "category": "sans_filtre",
+    "intensity": 1,
+    "question": "Dans une fiction romantique à écrire ensemble, je commencerais par…",
+    "choices": [
+      "Une lettre jamais envoyée",
+      "Deux inconnus qui se reconnaissent à un bal",
+      "Des retrouvailles où chacun a changé"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "fiction"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-014",
+    "category": "sans_filtre",
+    "intensity": 1,
+    "question": "Qu’est-ce qui nourrit le plus mon anticipation avant une soirée en tête-à-tête ?",
+    "choices": [
+      "Une invitation qui dit clairement l’envie de se voir",
+      "Quelques indices gardés pour le jour même",
+      "Une préparation faite ensemble"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "anticipation"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-015",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Je souhaite aborder une préférence peu habituelle. Par où commencerais-je ?",
+    "choices": [
+      "Demander si c’est un bon moment pour en parler",
+      "Expliquer ce qui m’y attire émotionnellement",
+      "Proposer d’échanger chacun une curiosité"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "préférences"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-016",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "De quelle façon aimerais-je recevoir une confidence que je ne partage pas ?",
+    "choices": [
+      "Avec la liberté de poser une question",
+      "Avec le temps de réfléchir avant de répondre",
+      "Comme un témoignage à simplement écouter"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "écoute"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-017",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quand une invitation reste ambiguë, quelle phrase me vient facilement ?",
+    "choices": [
+      "« Qu’est-ce que tu imagines exactement ? »",
+      "« Voilà ce qui me tente de mon côté. »",
+      "« J’aimerais qu’on prenne notre temps. »"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "clarté"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-018",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quel détail me donne le sentiment qu’un moment intime nous appartient ?",
+    "choices": [
+      "Les téléphones laissés dans une autre pièce",
+      "Un lieu où personne ne peut nous interrompre",
+      "Un accord sur ce que l’on garde entre nous"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "discrétion"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-019",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Si l’on échangeait des lettres de désir, quelle règle me conviendrait ?",
+    "choices": [
+      "Chacun choisit ce qu’il souhaite lire à voix haute",
+      "On se les rend après lecture",
+      "On décide ensemble si on les conserve"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "correspondance"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-020",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Dans une nouvelle relation, quand aimerais-je parler de discrétion ?",
+    "choices": [
+      "Avant les premières confidences personnelles",
+      "Quand on commence à parler de nous aux amis",
+      "Au moment où l’un de nous en ressent le besoin"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "discrétion"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-021",
+    "category": "sans_filtre",
+    "intensity": 1,
+    "question": "Quelle invitation à la tendresse pourrais-je lancer spontanément ?",
+    "choices": [
+      "« Tu aimerais que je prenne ta main ? »",
+      "« On se pose un peu côte à côte ? »",
+      "« Tu aurais envie d’un câlin ? »"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "tendresse"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-022",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Si l’autre me demande comment me séduire, que serais-je tenté de donner ?",
+    "choices": [
+      "Un exemple très concret",
+      "Un indice à explorer ensemble",
+      "Une occasion de me surprendre dans des limites convenues"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "initiative"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-023",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quel genre de rendez-vous imaginaire nourrit le mieux ma curiosité ?",
+    "choices": [
+      "Une rencontre incognito dans un hôtel de fiction",
+      "Des retrouvailles après des années de lettres",
+      "Une escapade où l’on s’invente de nouveaux prénoms"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "fiction"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-024",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "À propos d’une préférence intime, qu’est-ce qui peut évoluer chez moi ?",
+    "choices": [
+      "Les mots que je trouve pour l’exprimer",
+      "Le contexte dans lequel elle me tente",
+      "L’importance que je lui accorde"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "évolution"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-025",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Qu’est-ce qui m’aide à assumer une envie sans me presser ?",
+    "choices": [
+      "Savoir que la conversation peut s’arrêter là",
+      "Pouvoir y revenir avec mes propres mots",
+      "Entendre comment l’autre vit le même sujet"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "patience"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-026",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Si l’on veut inventer un signal de pause, lequel me conviendrait ?",
+    "choices": [
+      "Un mot simple convenu à l’avance",
+      "Un geste distinct dont on a parlé",
+      "Une phrase ordinaire comme « attends un peu »"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "pause"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-027",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quel style de message séduisant aimerais-je recevoir après avoir donné mon accord ?",
+    "choices": [
+      "Une allusion à un souvenir partagé",
+      "Un compliment dit sans détour",
+      "Le début d’une scène imaginaire à continuer"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "messages"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-028",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Avant d’envoyer un message intime, quel détail compterait le plus pour moi ?",
+    "choices": [
+      "Savoir si l’autre a envie de le recevoir",
+      "Trouver un moment où l’autre peut le lire en privé",
+      "S’être accordés sur ce qu’on fait du message ensuite"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "discrétion"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-029",
+    "category": "sans_filtre",
+    "intensity": 1,
+    "question": "Dans un moment de proximité, quel silence me paraît le plus agréable ?",
+    "choices": [
+      "Celui qui suit un rire partagé",
+      "Celui où l’on reste simplement côte à côte",
+      "Celui qui laisse résonner une jolie phrase"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "silence"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-030",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quand je ne sais pas encore répondre à une proposition, je préférerais…",
+    "choices": [
+      "Dire que je reviendrai vers l’autre si l’envie vient",
+      "Poser une question sur le déroulement imaginé",
+      "Choisir de passer à un sujet plus léger"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "incertitude"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-031",
+    "category": "sans_filtre",
+    "intensity": 1,
+    "question": "Dans un récit à deux voix, quel personnage prendrais-je plaisir à jouer ?",
+    "choices": [
+      "La personne mystérieuse qui laisse un indice",
+      "La personne franche qui lance l’invitation",
+      "La personne qui bouleverse le scénario avec humour"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "fiction"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-032",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quelle forme d’initiative apprécierais-je particulièrement ?",
+    "choices": [
+      "Choisir le lieu et me demander mon avis sur la suite",
+      "Me dire une envie puis me laisser décider du rythme",
+      "Me demander ce que j’aimerais proposer moi-même"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "initiative"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-033",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Si j’avais à nommer mon rythme idéal sans donner de durée, je dirais…",
+    "choices": [
+      "Avancer à petits pas et savourer chacun",
+      "Laisser de la place aux élans spontanés",
+      "Prendre le temps d’en parler avant de se lancer"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "rythme"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-034",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quelle impression aimerais-je garder après une conversation très personnelle ?",
+    "choices": [
+      "Avoir été compris dans ma nuance",
+      "Avoir découvert une facette de l’autre",
+      "Avoir pu dire exactement où je m’arrête"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "confidence"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-035",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quand une confidence me surprend, comment ai-je tendance à réagir ?",
+    "choices": [
+      "Je cherche les mots pour remercier",
+      "Je laisse passer un silence pour comprendre",
+      "Je demande ce que l’autre attend de ma réponse"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "écoute"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-036",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Qu’est-ce qui rend un compliment sur mon apparence agréable pour moi ?",
+    "choices": [
+      "Qu’il soit prononcé dans l’intimité",
+      "Qu’il décrive un détail que j’ai choisi",
+      "Qu’il dise surtout l’émotion qu’il provoque"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "compliments"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-037",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Pour discuter de nos curiosités respectives, quel support choisirais-je ?",
+    "choices": [
+      "Trois colonnes « oui, peut-être, hors sujet pour moi »",
+      "Des cartes qu’on peut écarter sans commentaire",
+      "Une conversation libre dont chacun choisit le thème"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "curiosité"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-038",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Dans quelle situation me sentirais-je davantage libre de prendre l’initiative ?",
+    "choices": [
+      "Quand on s’est déjà dit ce qui nous plaît",
+      "Quand l’autre me lance une invitation explicite",
+      "Quand le lieu et le moment sont familiers"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "initiative"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-039",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Un jeu de séduction ne m’amuse plus en cours de route. Comment aimerais-je le quitter ?",
+    "choices": [
+      "Dire simplement « j’arrête là »",
+      "Changer de registre avec un mot convenu",
+      "Proposer de revenir à notre soirée ordinaire"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "limites"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-040",
+    "category": "sans_filtre",
+    "intensity": 1,
+    "question": "Quel aspect d’une escapade romantique pourrait éveiller mon désir ?",
+    "choices": [
+      "Prendre son temps loin de nos habitudes",
+      "Découvrir un décor qui stimule mon imagination",
+      "Préparer pour l’autre un moment très personnel"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "escapade"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-041",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Si mon envie fluctue beaucoup, quelle attitude du partenaire m’aide ?",
+    "choices": [
+      "Accueillir ce que je ressens aujourd’hui",
+      "M’inviter à en parler quand cela me convient",
+      "Entretenir une complicité sans attente particulière"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "rythme"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-042",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quel secret de séduction se raconte le mieux à ma façon ?",
+    "choices": [
+      "Un souvenir où une phrase m’a troublé",
+      "Un décor qui nourrit mon imagination",
+      "Un geste attentionné qui change tout pour moi"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "imaginaire"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-043",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Comment préférerais-je évoquer le besoin d’être rassuré après une confidence ?",
+    "choices": [
+      "Demander une réponse claire sur ce qui a été entendu",
+      "Proposer un moment de tendresse si l’autre le souhaite",
+      "Convenir d’en reparler après une nuit de recul"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "réassurance"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-044",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Pour moi, l’intimité gagne en profondeur quand…",
+    "choices": [
+      "Je peux montrer aussi mes hésitations",
+      "On cultive des rituels qui nous appartiennent",
+      "L’autre prend le temps de connaître mon imaginaire"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "vulnérabilité"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-045",
+    "category": "sans_filtre",
+    "intensity": 1,
+    "question": "Si j’organisais une soirée autour des sens, quel fil choisirais-je ?",
+    "choices": [
+      "Une playlist à construire chacun notre tour",
+      "Des parfums qui évoquent des souvenirs",
+      "Des saveurs associées à des lieux rêvés"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "sens"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-046",
+    "category": "sans_filtre",
+    "intensity": 1,
+    "question": "Comment aimerais-je qu’on me demande si une surprise romantique est bienvenue ?",
+    "choices": [
+      "En précisant son ambiance et sa durée",
+      "En me proposant deux options possibles",
+      "En me donnant assez d’indices pour décider librement"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "surprise"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-047",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Une scène de film me trouble. Que serais-je le plus à l’aise de partager ?",
+    "choices": [
+      "Le détail de mise en scène qui m’a touché",
+      "L’émotion qu’elle a réveillée chez moi",
+      "Une question sur la façon dont l’autre l’a vécue"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "fiction"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-048",
+    "category": "sans_filtre",
+    "intensity": 1,
+    "question": "Quel équilibre me plaît entre rendez-vous prévu et spontanéité ?",
+    "choices": [
+      "Prévoir le moment et improviser son contenu",
+      "Préparer quelques idées à choisir à deux",
+      "Décider au dernier moment si l’envie est partagée"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "spontanéité"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-049",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Si on me demandait de décrire le désir sans parler du corps, je choisirais…",
+    "choices": [
+      "L’impatience de retrouver une présence",
+      "La curiosité de découvrir un monde intérieur",
+      "L’attention soudaine portée au moindre détail"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "désir"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-050",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "De quoi aurais-je besoin pour proposer une fantaisie qui me tient à cœur ?",
+    "choices": [
+      "De savoir qu’un refus ne changera pas notre lien",
+      "D’avoir trouvé des mots qui me ressemblent",
+      "D’un moment propice où l’autre se sent disponible"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "fantasmes"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-051",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quel type de mot doux aimerais-je mieux réserver à l’intimité ?",
+    "choices": [
+      "Un surnom lié à une histoire personnelle",
+      "Une phrase qui dit clairement mon attirance",
+      "Une formule inventée à deux"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "discrétion"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-052",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Après une soirée très intense en émotions, que choisirais-je volontiers ?",
+    "choices": [
+      "Rester un moment ensemble dans le calme",
+      "Dire chacun ce qu’on aimerait retenir",
+      "Retrouver mon espace puis envoyer un mot plus tard"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "après le rendez-vous"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-053",
+    "category": "sans_filtre",
+    "intensity": 1,
+    "question": "Pour jouer à se séduire comme au premier jour, quel point de départ me tente ?",
+    "choices": [
+      "Se donner rendez-vous dans un lieu inconnu",
+      "Se présenter avec une vraie anecdote jamais racontée",
+      "Écrire chacun une nouvelle première invitation"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "retrouvailles"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-054",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Si une conversation sur nos envies révèle une différence, qu’aimerais-je explorer ?",
+    "choices": [
+      "Ce que cette envie représente pour chacun",
+      "Un terrain commun qui nous plaît déjà",
+      "La façon de respecter la différence dans la durée"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "différences"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-055",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Un regard prolongé devient un peu trop intense pour moi. Quel réflexe me ressemble ?",
+    "choices": [
+      "Le dire doucement",
+      "Sourire et proposer un autre jeu",
+      "Prendre un peu de distance et expliquer ensuite"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "limites"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-056",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Qu’est-ce qui entretient le mieux ma curiosité intime au fil du temps ?",
+    "choices": [
+      "Continuer à se poser de vraies questions",
+      "Réinventer de petites habitudes partagées",
+      "S’accorder de l’espace pour avoir des choses à raconter"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "curiosité"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-057",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Quel pouvoir aimerais-je garder quand on joue avec le mystère ?",
+    "choices": [
+      "Choisir le degré de surprise",
+      "Ouvrir l’enveloppe quand je le décide",
+      "Demander à tout savoir avant de poursuivre"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "mystère"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-058",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Si je devais compléter « j’aime qu’on ose… », je choisirais…",
+    "choices": [
+      "Me dire précisément ce qui plaît chez moi",
+      "Me demander ce que j’imagine",
+      "Admettre qu’on est un peu impressionné"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "franchise"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-059",
+    "category": "sans_filtre",
+    "intensity": 3,
+    "question": "Quel signe de confiance aimerais-je offrir en retour d’une confidence ?",
+    "choices": [
+      "Dire avec mes mots ce que j’ai compris",
+      "Partager une impression personnelle si j’en ai envie",
+      "Tenir avec soin la discrétion convenue"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "confiance"
+      ]
+    }
+  },
+  {
+    "id": "sans_filtre-060",
+    "category": "sans_filtre",
+    "intensity": 2,
+    "question": "Après avoir exploré un thème sensible dans ce jeu, comment voudrais-je terminer ?",
+    "choices": [
+      "Nommer une chose agréable que j’ai apprise",
+      "Choisir un sujet léger pour revenir tranquillement",
+      "Garder le silence et reprendre plus tard si j’en ai envie"
+    ],
+    "allowSkip": true,
+    "adult": true,
+    "compatibility": {
+      "modes": [
+        "miroir",
+        "dans_ta_tete"
+      ],
+      "themes": [
+        "intimité",
+        "retour au calme"
+      ]
+    }
+  }
+]

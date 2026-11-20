@@ -1,0 +1,28 @@
+name: Vérifications du jeu
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  game:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt playwright==1.62.0
+      - run: python -m playwright install --with-deps chromium
+      - run: python -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Parcours mobile à deux
+        env:
+          PORT: 8080
+          HOST: 127.0.0.1
+          DB_PATH: /tmp/entre-nous-ci.sqlite
+          TEST_BASE_URL: http://127.0.0.1:8080
+        run: |
+          python server.py &
+          pid=$!
+          trap 'kill "$pid" 2>/dev/null || true' EXIT
+          curl --retry 20 --retry-connrefused --retry-delay 1 --fail "$TEST_BASE_URL/" > /dev/null
+          python tests/mobile_playwright.py

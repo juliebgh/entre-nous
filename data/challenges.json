@@ -1,0 +1,452 @@
+[
+  {
+    "id": "leger-01",
+    "level": "leger",
+    "text": "Imagine le titre du film de votre rencontre et laisse l’autre inventer la première réplique."
+  },
+  {
+    "id": "leger-02",
+    "level": "leger",
+    "text": "Présente l’autre comme la personne invitée dans ton émission préférée. Choisis un talent que tu as réellement remarqué."
+  },
+  {
+    "id": "leger-03",
+    "level": "leger",
+    "text": "Faites chacun le bruit d’ambiance qui rendrait cet instant parfait. Devinez le décor de l’autre."
+  },
+  {
+    "id": "leger-04",
+    "level": "leger",
+    "text": "Donne un nom à un petit rituel que vous pourriez inventer à deux, puis joue sa toute première édition."
+  },
+  {
+    "id": "leger-05",
+    "level": "leger",
+    "text": "Imagine que tu peux envoyer une carte postale depuis demain. Lis à l’autre la phrase que tu écrirais."
+  },
+  {
+    "id": "leger-06",
+    "level": "leger",
+    "text": "Compose un menu de trois moments pour une soirée ensemble. L’autre choisit le plat principal."
+  },
+  {
+    "id": "leger-07",
+    "level": "leger",
+    "text": "Raconte une anecdote vraie en trois indices. Laisse l’autre choisir celui que tu développes."
+  },
+  {
+    "id": "leger-08",
+    "level": "leger",
+    "text": "Propose un geste discret pour dire « cette soirée me plaît ». L’autre peut en proposer une variante."
+  },
+  {
+    "id": "leger-09",
+    "level": "leger",
+    "text": "Transforme un objet à proximité en cadeau imaginaire pour l’autre et explique ton choix."
+  },
+  {
+    "id": "leger-10",
+    "level": "leger",
+    "text": "Invente le nom d’une rue où vous aimeriez flâner ensemble. Décris la boutique du coin."
+  },
+  {
+    "id": "leger-11",
+    "level": "leger",
+    "text": "Fais deviner, avec un seul mouvement, une activité que tu aimerais partager."
+  },
+  {
+    "id": "leger-12",
+    "level": "leger",
+    "text": "Choisissez chacun une chanson pour un trajet de nuit à deux. Racontez le moment précis où vous la lanceriez."
+  },
+  {
+    "id": "leger-13",
+    "level": "leger",
+    "text": "Décris un minuscule luxe que tu aimerais offrir à l’autre un dimanche matin."
+  },
+  {
+    "id": "leger-14",
+    "level": "leger",
+    "text": "Imagine que vous ouvrez un café ensemble. Chacun propose une spécialité inspirée de l’autre."
+  },
+  {
+    "id": "leger-15",
+    "level": "leger",
+    "text": "Trouve un détail dans la manière de raconter de l’autre et dis ce que tu apprécies dans ce détail."
+  },
+  {
+    "id": "leger-16",
+    "level": "leger",
+    "text": "Racontez la même balade imaginaire à deux voix, en ajoutant chacun une phrase à votre tour."
+  },
+  {
+    "id": "leger-17",
+    "level": "leger",
+    "text": "Propose deux destinations surprises accessibles en une heure. L’autre choisit d’après une seule indication."
+  },
+  {
+    "id": "leger-18",
+    "level": "leger",
+    "text": "Donne un titre de chapitre à cet instant. Demande à l’autre quel serait le chapitre suivant."
+  },
+  {
+    "id": "leger-19",
+    "level": "leger",
+    "text": "Dessine du doigt dans l’air un symbole qui représente votre échange. Laisse l’autre lui donner un sens."
+  },
+  {
+    "id": "leger-20",
+    "level": "leger",
+    "text": "Invente une invitation de cinq mots pour revoir l’autre. La réponse doit aussi tenir en cinq mots."
+  },
+  {
+    "id": "leger-21",
+    "level": "leger",
+    "text": "Décrivez chacun une table où vous aimeriez dîner ensemble. Gardez un élément de chaque idée."
+  },
+  {
+    "id": "leger-22",
+    "level": "leger",
+    "text": "Choisis un parfum qui te rappelle une journée heureuse et emmène l’autre dans ce souvenir en deux phrases."
+  },
+  {
+    "id": "leger-23",
+    "level": "leger",
+    "text": "Imagine une photo de vous deux sans personne dans le cadre. Décris les indices qui raconteraient votre présence."
+  },
+  {
+    "id": "leger-24",
+    "level": "leger",
+    "text": "Échangez un conseil pour rendre un jour ordinaire un peu plus beau, puis choisissez lequel essayer."
+  },
+  {
+    "id": "leger-25",
+    "level": "leger",
+    "text": "Décris une façon très simple dont l’autre pourrait te faire rire un jour de pluie."
+  },
+  {
+    "id": "leger-26",
+    "level": "leger",
+    "text": "Inventez un mot pour nommer un de ces silences où vous vous sentez bien."
+  },
+  {
+    "id": "leger-27",
+    "level": "leger",
+    "text": "Offre à l’autre un bon imaginaire pour quinze minutes de ton temps. Précise ce que vous en feriez."
+  },
+  {
+    "id": "leger-28",
+    "level": "leger",
+    "text": "Choisis la lumière, le lieu ou la musique de votre prochaine conversation. L’autre complète le décor."
+  },
+  {
+    "id": "leger-29",
+    "level": "leger",
+    "text": "Mime deux façons de saluer l’autre après un long voyage. Laisse l’autre choisir sa préférée."
+  },
+  {
+    "id": "leger-30",
+    "level": "leger",
+    "text": "Imagine un petit musée consacré à vos goûts. Chacun présente la première pièce qu’il y exposerait."
+  },
+  {
+    "id": "audacieux-01",
+    "level": "audacieux",
+    "text": "Décris un instant où l’autre a retenu ton attention. Raconte ce que tu as remarqué en premier."
+  },
+  {
+    "id": "audacieux-02",
+    "level": "audacieux",
+    "text": "Improvise une invitation à dîner qui révèle clairement ton intérêt en une seule phrase."
+  },
+  {
+    "id": "audacieux-03",
+    "level": "audacieux",
+    "text": "Choisissez une durée de regard qui vous plaît à tous les deux. À la fin, dites chacun un mot qui vous est venu."
+  },
+  {
+    "id": "audacieux-04",
+    "level": "audacieux",
+    "text": "Écris mentalement la première ligne d’une lettre de séduction et lis-la avec le ton qui te ressemble."
+  },
+  {
+    "id": "audacieux-05",
+    "level": "audacieux",
+    "text": "Propose un compliment sur une façon d’être de l’autre. Appuie-le sur une scène précise."
+  },
+  {
+    "id": "audacieux-06",
+    "level": "audacieux",
+    "text": "Décris deux façons de te faire la cour, une discrète et une directe. L’autre peut dire celle qui lui ressemble."
+  },
+  {
+    "id": "audacieux-07",
+    "level": "audacieux",
+    "text": "Transforme « j’aimerais te revoir » en réplique de comédie romantique, puis redis-le avec tes propres mots."
+  },
+  {
+    "id": "audacieux-08",
+    "level": "audacieux",
+    "text": "Imagine une danse à deux à distance. Guide l’autre par trois indications de rythme, si l’idée lui plaît."
+  },
+  {
+    "id": "audacieux-09",
+    "level": "audacieux",
+    "text": "Raconte un détail qui peut rendre un rendez-vous mémorable pour toi. L’autre invente un rendez-vous autour de ce détail."
+  },
+  {
+    "id": "audacieux-10",
+    "level": "audacieux",
+    "text": "Demande à l’autre de choisir entre pluie et nuit d’été. Improvise une scène de rencontre dans ce décor."
+  },
+  {
+    "id": "audacieux-11",
+    "level": "audacieux",
+    "text": "Faites entendre chacun deux versions d’un même « bonsoir ». Expliquez ensuite l’intention que vous aviez choisie."
+  },
+  {
+    "id": "audacieux-12",
+    "level": "audacieux",
+    "text": "Fais la publicité d’un rendez-vous avec toi comme si c’était une petite annonce dans un vieux journal."
+  },
+  {
+    "id": "audacieux-13",
+    "level": "audacieux",
+    "text": "Trouve une question que tu oserais poser durant une promenade au clair de lune. L’autre choisit de répondre ou de garder le mystère."
+  },
+  {
+    "id": "audacieux-14",
+    "level": "audacieux",
+    "text": "Raconte une maladresse qui pourrait te charmer chez quelqu’un. L’autre imagine la suite de la scène."
+  },
+  {
+    "id": "audacieux-15",
+    "level": "audacieux",
+    "text": "Invente la bande-annonce de vos retrouvailles dans une gare. Confie la dernière réplique à l’autre."
+  },
+  {
+    "id": "audacieux-16",
+    "level": "audacieux",
+    "text": "Choisis une qualité de l’autre qui gagnerait à être remarquée davantage. Adresse-lui un toast en son honneur."
+  },
+  {
+    "id": "audacieux-17",
+    "level": "audacieux",
+    "text": "Imagine une soirée où vous ne pouvez communiquer que par petits billets. Dicte le premier."
+  },
+  {
+    "id": "audacieux-18",
+    "level": "audacieux",
+    "text": "Propose une manière élégante de demander « est-ce que je peux me rapprocher ? ». L’autre choisit librement sa réponse."
+  },
+  {
+    "id": "audacieux-19",
+    "level": "audacieux",
+    "text": "Construisez un rendez-vous à tour de rôle avec une seule contrainte choisie ensemble, comme un budget de zéro franc."
+  },
+  {
+    "id": "audacieux-20",
+    "level": "audacieux",
+    "text": "Décris le charme d’une voix, d’une démarche ou d’un rire qui te touche. L’autre peut raconter son propre exemple."
+  },
+  {
+    "id": "audacieux-21",
+    "level": "audacieux",
+    "text": "Imagine une phrase qui te ferait sourire en rentrant d’un rendez-vous. Prononce-la comme un message vocal."
+  },
+  {
+    "id": "audacieux-22",
+    "level": "audacieux",
+    "text": "Laisse l’autre choisir un accessoire imaginaire. Fais-en le point de départ d’une invitation galante."
+  },
+  {
+    "id": "audacieux-23",
+    "level": "audacieux",
+    "text": "Invente un surnom de personnage de roman inspiré d’un trait de l’autre. Lis la phrase qui l’introduirait dans l’histoire."
+  },
+  {
+    "id": "audacieux-24",
+    "level": "audacieux",
+    "text": "Décris ce qui, pour toi, transforme une conversation ordinaire en flirt. Donne un exemple que vous pouvez jouer à distance."
+  },
+  {
+    "id": "audacieux-25",
+    "level": "audacieux",
+    "text": "Imagine que vous vous rencontrez dans un train. Engage la conversation avec une phrase que tu oserais vraiment dire."
+  },
+  {
+    "id": "audacieux-26",
+    "level": "audacieux",
+    "text": "Propose une façon de complimenter l’autre devant du monde, puis une autre que tu réserverais à un tête-à-tête."
+  },
+  {
+    "id": "audacieux-27",
+    "level": "audacieux",
+    "text": "Choisis un mot que tu aimerais entendre plus souvent. L’autre peut inventer une courte scène où il aurait sa place."
+  },
+  {
+    "id": "audacieux-28",
+    "level": "audacieux",
+    "text": "Décris un moment romantique en parlant uniquement des sons autour de vous. L’autre devine où vous êtes."
+  },
+  {
+    "id": "audacieux-29",
+    "level": "audacieux",
+    "text": "Prête ta voix à une invitation fictive à un bal masqué. L’autre invente le mot de passe pour entrer."
+  },
+  {
+    "id": "audacieux-30",
+    "level": "audacieux",
+    "text": "Inventez ensemble la dernière minute d’un premier rendez-vous réussi, chacun en ajoutant une action qui lui plairait."
+  },
+  {
+    "id": "intense-01",
+    "level": "intense",
+    "text": "Complète « avec toi, j’aurais envie de prendre le temps de… » au degré de confidence qui te convient."
+  },
+  {
+    "id": "intense-02",
+    "level": "intense",
+    "text": "Décris à l’autre une façon de te faire sentir désiré ou désirée qui respecterait ton rythme."
+  },
+  {
+    "id": "intense-03",
+    "level": "intense",
+    "text": "Compose un message que tu enverrais après une soirée où la tension était palpable. Lis-le si tu en as envie."
+  },
+  {
+    "id": "intense-04",
+    "level": "intense",
+    "text": "Propose une scène de rapprochement imaginaire. L’autre peut choisir de la poursuivre, de la modifier ou de la clore."
+  },
+  {
+    "id": "intense-05",
+    "level": "intense",
+    "text": "Imagine que tu peux suspendre dix secondes d’un rendez-vous. Explique le moment que tu retiendrais et pourquoi."
+  },
+  {
+    "id": "intense-06",
+    "level": "intense",
+    "text": "Adresse à l’autre une déclaration très directe sur quelque chose qui t’attire. Un trait de caractère suffit."
+  },
+  {
+    "id": "intense-07",
+    "level": "intense",
+    "text": "Choisissez un mot pour inviter à ralentir dans une scène romantique. Jouez la réponse attentionnée qui suivrait."
+  },
+  {
+    "id": "intense-08",
+    "level": "intense",
+    "text": "Décris une ambiance où il te serait facile de dire ce dont tu as envie. L’autre y ajoute un détail de son choix."
+  },
+  {
+    "id": "intense-09",
+    "level": "intense",
+    "text": "Imagine une conversation à voix basse dans un lieu bruyant. Dis la phrase que tu voudrais être la seule personne à entendre."
+  },
+  {
+    "id": "intense-10",
+    "level": "intense",
+    "text": "Chacun choisit un geste romantique imaginaire. Dites comment vous demanderiez l’accord de l’autre avant de l’initier."
+  },
+  {
+    "id": "intense-11",
+    "level": "intense",
+    "text": "Raconte à la première personne une rencontre fictive où tu oses enfin prendre l’initiative. Arrête-toi au moment de l’invitation."
+  },
+  {
+    "id": "intense-12",
+    "level": "intense",
+    "text": "Choisis un détail qui rend une proximité douce pour toi. Explique comment l’autre pourrait vérifier que cela te plaît encore."
+  },
+  {
+    "id": "intense-13",
+    "level": "intense",
+    "text": "Invente trois lignes d’une lettre que l’on ouvrirait au milieu de la nuit. La dernière peut rester un secret."
+  },
+  {
+    "id": "intense-14",
+    "level": "intense",
+    "text": "Imaginez une scène de cinéma qui exprime le désir sans montrer les personnages. Décidez ensemble du dernier plan."
+  },
+  {
+    "id": "intense-15",
+    "level": "intense",
+    "text": "Offre un compliment que tu trouverais trop personnel pour le dire dans une pièce pleine de monde."
+  },
+  {
+    "id": "intense-16",
+    "level": "intense",
+    "text": "Choisissez une façon de vous dire « tu me plais » sans prononcer ces mots. Essayez-la chacun si cela vous tente."
+  },
+  {
+    "id": "intense-17",
+    "level": "intense",
+    "text": "Imagine une invitation à partager un moment de silence très proche. Formule-la de façon à rendre un refus facile."
+  },
+  {
+    "id": "intense-18",
+    "level": "intense",
+    "text": "Prête ta voix à un personnage qui avoue une envie romantique à demi-mot. L’autre peut lui répondre dans son propre rôle."
+  },
+  {
+    "id": "intense-19",
+    "level": "intense",
+    "text": "Décris ce qui peut te donner envie de prolonger un tête-à-tête. Laisse l’autre inventer une suite possible."
+  },
+  {
+    "id": "intense-20",
+    "level": "intense",
+    "text": "Propose deux rythmes pour une scène romantique fictive. L’autre raconte la version dans laquelle il ou elle se sentirait le mieux."
+  },
+  {
+    "id": "intense-21",
+    "level": "intense",
+    "text": "Choisis une phrase de réassurance que tu aimerais entendre dans un moment vulnérable. Explique ce qu’elle changerait pour toi."
+  },
+  {
+    "id": "intense-22",
+    "level": "intense",
+    "text": "Imagine un rendez-vous construit autour d’un sens de ton choix. Raconte le moment où l’attirance deviendrait perceptible."
+  },
+  {
+    "id": "intense-23",
+    "level": "intense",
+    "text": "Raconte une façon de se dire au revoir qui laisserait une impression de désir partagé. Vous pouvez la garder entièrement imaginaire."
+  },
+  {
+    "id": "intense-24",
+    "level": "intense",
+    "text": "Décris l’attention que tu aimerais recevoir après une confidence intime. L’autre peut y répondre par une seule phrase."
+  },
+  {
+    "id": "intense-25",
+    "level": "intense",
+    "text": "Faites dialoguer deux personnages qui s’attirent et veulent des choses différentes ce soir. Offrez-leur une fin qui leur plaise aux deux."
+  },
+  {
+    "id": "intense-26",
+    "level": "intense",
+    "text": "Imagine qu’on te demande très simplement « de quoi as-tu envie maintenant ? ». Réponds pour un personnage ou pour toi."
+  },
+  {
+    "id": "intense-27",
+    "level": "intense",
+    "text": "Confie une petite audace romantique que tu serais curieux ou curieuse d’essayer. L’autre peut proposer une version plus douce."
+  },
+  {
+    "id": "intense-28",
+    "level": "intense",
+    "text": "Inventez à deux un signal pour inviter au rapprochement et un signal pour retrouver de l’espace. Chacun choisit celui qu’il aimerait utiliser."
+  },
+  {
+    "id": "intense-29",
+    "level": "intense",
+    "text": "Décris une invitation séduisante dont tu aimerais pouvoir choisir toi-même la suite. L’autre te propose deux fins imaginaires."
+  },
+  {
+    "id": "intense-30",
+    "level": "intense",
+    "text": "Termine la phrase « de notre échange, j’aimerais garder… ». Si vous le souhaitez tous les deux, échangez un dernier regard en silence."
+  }
+]
